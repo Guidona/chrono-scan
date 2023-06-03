@@ -1,0 +1,269 @@
+GUY MBEREBE GUIDONA
+Nationality: Cameroonian | Gender: Male = Phone number: (+1) 4387656554 (Mobile) = Email address:
+mguidona@gmail.com | Twitter: twitter.com/GMGuidona | LinkedIn: linkedin.com/in/guy-guidona
+Whatsapp Messenger: +237672301527
+Address: 9431 boulevard LaSalle, 104, H8R2M8, Montreal, Canada (Home)
+About me:
+| am a talented, ambitious and hardworking person, with broad skills and experience in software engineering,
+entrepreneurship and volunteering. Furthermore, | am adept at handling multiple tasks on a daily basis
+competently and at working well under pressure. A key strength is communication; building strong relationships
+with people in order to deliver the best results.
+WORK EXPERIENCE
+05/10/2022 - CURRENT Montreal, Canada
+SENIOR SOFTWARE DEVELOPMENT CONSULTANT ISCI INC.
+17/11/2019 - 04/10/2022 Yaoundé, Cameroon
+SOFTWARE DEVELOPER SPRINT - PAY CAMEROON SA
+General description
+ Improve system quality by identifying issues and common patterns, and developing standard operating
+procedures
+* Enhancing applications by identifying opportunities for improvement, making recommendations,
+designing and implementing systems
+* Maintaining and improving existing code bases and peer review code changes
++ Liaising with colleagues to implement technical designs
+* Investigating and using new technologies where relevant
+* Provide written knowledge transfer material
+Development of a web and desktop platform allowing the Office du Baccalauréat Cameroon (OBC) to
+centralise all examination management operations
+Context
+In order to facilitate and centralise the management process of the Baccalaureate and Probatoire
+examinations in Cameroon, the OBC called upon Sprint Pay to design and implement a web and offline
+platform, allowing them to manage the entire life cycle of official examinations, i.e. from the registration of
+candidates to the announcement of results.
+Online at https://www.epimexam.cm
+Tasks carried out
+» Implementation of the core business logic of the application;
+* Microservices deployment with service containerization and orchestration;
+* SCRUM methodology;
+« Data engineering and pipeline definition for data ingestion.
+Technical environment
+* Programming languages: Java;
+« Frameworks: Spring;
++ Deployment: Docker, Kubernetes;
++ Database: MySQL, Elasticsearch;
+* Documentation: Swagger, Spring Rest Docs.
+Sprint Pay payment API
+Context
+In an effort to address interoperability issues with money transfers, Sprint Pay has decided to offer the
+general public a wallet that allows them to to make transactions worldwide without commission.
+Tasks performed
++ Analysis, design and modeling
+1/5
++ Implementation of micro services for managing payment requests for various payment providers with
+the development of REST APIs and payment integrations
+
+« Documentation of APIs
+
+* SCRUM Methodology
+Technical environment
+
+* Programming languages: Java
+
+« Frameworks: Spring
+
+» Dependency management: Apache Maven
+
++ Testing: JUnit, SonarQube
+
+* Integrated Development Environment: Intelli] IDEA
+
++ Technologies: HTTP, Rest, SOAP, WebSockets
+
+* Documentation: Swagger, Spring Rest Docs
+Development of a web application enabling the Ministry of Finance (MINFI) of Cameroon to
+Cameroon to follow up on its litigations
+Every year, MINFI loses a great deal of money due to poor management of its litigation. It is in this spirit that
+we have been asked to develop a to develop a litigation management solution for the Ministry.
+Online at https://carte-du-contentieux.cm
+Tasks performed
+
++ Backend solution modeling and implementation
+
++ Daily SCRUM meetings, analysis, design and development of microservices for managing document and
+
+file storage. Integration of various storage services, APIs and FTP/SFTP servers.
+
+Technical environment
+
+* Programming languages: Java;
+
++ Frameworks: Spring, Batch programming
+
+» Dependency management: Apache Maven
+
++ Testing: JUnit, SonarQube
+
+* Documentation: Swagger, Spring Rest Docs
+Business or Sector Financial and insurance activities = Department IT
+Address Nouvelle Route Omnisport, Yaoundé, Cameroon | Website http://www.sprint-pay.com
+04/03/2019 - 02/09/2019 Yaoundé, Cameroon
+SOFTWARE DEVELOPER 125
+Tasks carried out
+Desigh and implementation of an Electronic Archives Management System
+Design and analysis, writing of functional and technical specifications, development of micro-services,
+management of the core business, management of clients and web with Spring and Spring Boot
+frameworks, technical documentation, user acceptance testing.
+Technical environment
+
+* Programming languages: Java, Python, JavaScript, LATEX, HTML5, CSS3
+
+« Framework: Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Django, Jinja
+
+* Integrated Development Environment: Intelli) IDEA, Visual Studio Code
+
++ Database: MySQL, Apache Solr (for document indexing)
+
++ Architecture: Microservices
+
+* Tools
+
++ Code generator: JHipster
+* Testing: JUnit, Rest Assured, SonarQube
+
+01/07/2017 - 28/02/2019 Maroua, Cameroon
+SOFTWARE DEVELOPER TECHNOLOGY AND INNOVATION SUPPORT CENTER OF THE UNIVERSITY
+OF MAROUA
+Desigh and implementation of the student marks management platform of the National Advanced
+School of Engineering of Maroua
+Context
+The National Advanced School of Engineering of Maroua was in need of a platform for managing the entire
+life cycle of students marks and performance throughout their studies. This included;
+
+» Marks entered by teachers after evaluation;
+
+* Results publications;
+
+* Transcripts and testimonials generation.
+Realizations
+
++ Solution modeling and design;
+
+2/5
+* Implementation of a solution permitting teachers and users of the platform to enter the marks of the
+students, generate results and transcripts
+Technical environment
+» Programming languages: Java, JavaScript, HTML5, CSS3
+« Framework: Spring Boot, Spring Framework, Angular]S
+* Integrated Development Environment: Intelli) IDEA, Visual Studio Code
++ Database: PostgreSQL
++ Architecture: Monolith
+* Tools:
+» Dependency management: Apache Maven;
+* Testing: JUnit, Cucumber, Rest Assured, SonarQube;
+* Deployment (DevOps): Jenkins, Git/GitHub, Apache Tomcat
+Desigh and implementation of a Transparent Authentication System for the users of the Technology
+and Innovation Support Center
+Context
+The objective of the project was to offer a user friendly authentication system allowing them to easily access
+the system from their computers as long as they are connected to the center's WiFi.
+Technical environment
+* Programming language: Python
+* Tools: mitmproxy https://mitmproxy.org/
+Other tasks carried out
+* Provide technical assistance and support for incoming queries and issues related to computer systems,
+software, and hardware.
++ Maintain daily performance of computer systems.
++ Install, modify, and repair computer hardware and software.
++ Clean up computers.
+06/07/2015 - 05/08/2015 Garoua, Cameroon
+ICT HELP DESK AGENT BRASSERIES DU CAMEROUN
+Tasks carried out
+* Provide technical assistance and support for incoming queries and issues related to computer systems,
+software, and hardware.
++ Maintain daily performance of computer systems.
+* Respond to email messages from customers seeking help.
++ Ask questions to determine the nature of the problem.
+» Walk customer through problem-solving process.
++ Install, modify, and repair computer hardware and software.
++ Clean up computers.
+* Run diagnostic programs to resolve problems.
+* Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other
+systems.
++ Install computer peripherals for users.
++ Follow up with the customer to ensure the issue has been resolved.
+Address Garoua, Cameroon
+EDUCATION AND TRAINING
+01/11/2017 - 02/09/2019 Maroua, Cameroon
+MASTERS OF ENGINEERING DEGREE IN SOFTWARE ENGINEERING National Advanced School of
+Engineering of Maroua
+Address Maroua, Cameroon
+Field of study Software and applications development and analysis , Inter-disciplinary programmes and qualifications
+involving Information and Communication Technologies (ICTs) , Database and network design and administration
+Final grade A-
+3/5
+08/09/2018 - 22/09/2018 Shenzhen, China
+HUAWEI SEEDS FOR THE FUTURE Huawei Technologies Co., Ltd.
+Address Shenzhen, China
+10/09/2018 - 13/09/2018 Beijing, China
+CHINESE LANGUAGE & CULTURE EXPERIENCE PROGRAM Beijing Language and Culture
+University
+Address Beijing, China
+15/10/2014 - 25/09/2017 Maroua, Cameroon
+BACHELOR OF ENGINEERING DEGREE IN COMPUTER SCIENCE AND TELECOMMUNICATIONS Na
+tional Advanced School of Engineering of Maroua
+Address Maroua, Cameroon
+Field of study Software and applications development and analysis , Inter-disciplinary programmes and qualifications
+involving Information and Communication Technologies (ICTs)
+Final grade B
+03/09/2007 - 01/08/2012 Maroua, Cameroon
+GCE ORDINARY LEVEL Government Bilingual High School Maroua
+Address Maroua, Cameroon
+03/09/2012 - 01/08/2014 Garoua, Cameroon
+GCE ADVANCED LEVEL Government Bilingual High School Garoua
+Address Garoua, Cameroon
+LANGUAGE SKILLS
+Other language(s):
+UNDERSTANDING SPEAKING WRITING
+. . . Spoken Spoken
+Listening Reading production interaction
+
+ENGLISH c2 c2 c2 c2 c2
+
+FRENCH c2 c2 c2 c2 c2
+
+FULAH B2 B2 B1 B1 A1
+Levels: AT and A2: Basic user; BT and B2: Independent user; C1 and C2: Proficient user
+DIGITAL SKILLS
+os
+Ubuntu | Debian | Linux | Windows
+Programming
+CC++ Programming | JHipster | Java Programming language = Python | Git @ JUnit | Matlab | NodeJS
+and Express)s | Latex | SQL | Web Development HTML 5 CSS JavaScript | Basic knowledge of PHP
+programming language = RESTful Webservices | JSON | Maven | Spring Boot | Hibernate
+Admin services
+Linux Bash | Apache Tomcat = MySQL ' Docker Compose | MongoDB | Centrino | PostgreSQL @ Dock
+er | Kubernetes | Nagios | Jenkins
+
+4/5
+Softwares
+Microsoft Office Word Excel Access Power Point Outlook | Intelli) IDEA | Visual Studio Visual Studio Code
+Management tools
+Jira | Confluence
+ADDITIONAL INFORMATION
+NETWORKS AND MEMBERSHIPS
+20/10/2020 - CURRENT UNOPS Global Innovation Center, Lund, Sweden
+UNOPS Global Challenge GIC Alumni
+22/09/2018 - CURRENT Huawei Technologies Co., Ltd.
+Huawei Seeds For The Future Alumni
+CONFERENCES AND SEMINARS
+25/10/2019 - 26/10/2019 - UEBC PAE - ESSAMBA, Maroua
+Engaged African youths: The key to a prosperous Africa
+26/08/2017 - 27/08/2017 - Movement for Defence of Human Rights and Liberty (MDHRL), Maroua
+Fundamental data of human rights: Children's rights, women's rights and humanitarian law
+HONOURS AND AWARDS
+22/09/2018
+Huawei Seeds For The Future 2018 - Huawei Technologies Co., Ltd.
+02/10/2014
+Les Brasseries du Cameroun award of the best result for the 2014 GCE Advanced Level session in the
+North Region - Les Brasseries du Cameroun Award of the best pupil and result at the 2014 GCE Advanced
+Level session in the North Region - Cameroon
+17/09/2012
+Les Brasseries du Cameroun award of the best result for the 2012 GCE Ordinary Level session in the
+Far-North Region - Les Brasseries du Cameroun Award of the best pupil and result at the 2012 GCE
+Ordinary Level session in the Far North Region - Cameroon
+MANAGEMENT AND LEADERSHIP SKILLS
+Co- Founder & Vice President of Action for Education and Peace Co-Founder and Vice-President of Action
+for Education and Peace, an association based in Maroua - Cameroon, composed of young entrepreneurs
+with aim to promote on the national plan education, entrepreneurship and solidarity
+HOBBIES AND INTERESTS
+Sports Football, Jogging
+5/5
