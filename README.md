@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [Project Maintainer Name] at [maintainer_email@example.com].
+For any inquiries or feedback, please contact Guy Guidona at mguidona@gmail.com.
